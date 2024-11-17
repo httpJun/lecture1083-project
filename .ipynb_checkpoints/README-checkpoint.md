@@ -23,6 +23,12 @@ you can download from kaggle directly [kaggle](https://www.kaggle.com/c/titanic/
 
 
 # 데이터 분석 및 시각화
+1. train 데이터 분석
+2. 경제적 계층과 사회적 거리 분석과 생존율 분석
+3. 행운의 좌석으로 인한 생존율 분석
+4. matplotlib 시각화
+5. 로지스틱 회귀 분석 
+
 
 
 ## E-mail
